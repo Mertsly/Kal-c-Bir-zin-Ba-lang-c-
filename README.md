@@ -1,2 +1,2 @@
-# Kal-c-Bir-zin-Ba-lang-c-
+# ilk yazı
 Blog
